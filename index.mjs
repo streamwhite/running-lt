@@ -16,5 +16,5 @@ export async function startTunnel(port, subdomain) {
 }
 
 // Start the tunnel
-// change it to your own subdomain and port
+// change it to your own subdomain and local app port
 startTunnel(3000, 'u3XGy6aDuRtVvb2coQA1hh');

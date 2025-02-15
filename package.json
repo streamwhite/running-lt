@@ -2,18 +2,12 @@
   "name": "running-lt",
   "version": "1.0.0",
   "main": "index.js",
-  "bin": {
-    "running-lt": "./index.js"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "commander": "^13.1.0",
     "localtunnel": "^2.0.2"
   }
 }
