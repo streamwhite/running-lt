@@ -1,4 +1,12 @@
-# Running the Script with PM2
+## the questions
+
+1. **Stability Issues**: Localtunnel is not stable enough to run continuously in the background.
+
+2. **Command Conflicts**: Localtunnel's command conflicts with an alias of the `ls` command.
+
+3. **Process Management**: This script relies on PM2 to manage the background process and automatically restart it if it stops.
+
+## Running the Script with PM2
 
 To ensure the script runs continuously, use PM2. Here are the commands to manage the script with PM2:
 
